@@ -70,6 +70,8 @@ Use SAHI to test how well your model performs autonomously on large or complex i
 - Add more annotated images whenever performance plateaus.
 - Retrain or fine-tune models.
 - Re-evaluate using SAHI to confirm reliability and robustness.
+## **9. Code Structure**
+
 ## **Notes** 
 - Make sure your virtual environment is activated whenever running tools or training.
 - Keep all dependencies updated to ensure compatibility.
